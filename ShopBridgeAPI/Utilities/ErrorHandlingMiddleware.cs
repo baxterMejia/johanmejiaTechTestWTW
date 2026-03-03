@@ -11,66 +11,64 @@ using System.Threading.Tasks;
 namespace Utilities
 {
     /// <summary>
-    /// Middleware para manejar errores y excepciones de manera centralizada.
+    /// Middleware for centralized error and exception handling.
     /// </summary>
     public class ErrorHandlingMiddleware
     {
-        // Delegado para el siguiente middleware en el pipeline
+        // Delegate for the next middleware in the pipeline
         private readonly RequestDelegate next;
 
         /// <summary>
-        /// Constructor que toma el siguiente middleware en el pipeline
+        /// Constructor that receives the next middleware in the pipeline.
         /// </summary>
-        /// <param name="next">El siguiente middleware</param>
+        /// <param name="next">The next middleware delegate.</param>
         public ErrorHandlingMiddleware(RequestDelegate next)
         {
             this.next = next;
         }
 
         /// <summary>
-        /// Método de invocación del middleware para manejar peticiones HTTP.
+        /// Invokes the middleware to handle the incoming HTTP request.
         /// </summary>
-        /// <param name="context">El contexto HTTP de la petición</param>
-        /// <returns>Una tarea que representa la ejecución asíncrona del middleware</returns>
+        /// <param name="context">The HTTP context of the current request.</param>
+        /// <returns>A task that represents the asynchronous execution of the middleware.</returns>
         public async Task Invoke(HttpContext context /* other dependencies */)
         {
             try
-            {               
+            {
                 await next(context);
             }
             catch (Exception ex)
-            {                
+            {
                 await HandleExceptionAsync(context, ex);
             }
         }
 
         /// <summary>
-        /// Maneja las excepciones y devuelve una respuesta HTTP adecuada.
+        /// Handles exceptions and returns an appropriate HTTP response.
         /// </summary>
-        /// <param name="context">El contexto HTTP de la petición</param>
-        /// <param name="ex">La excepción capturada</param>
-        /// <returns>Una tarea que representa la escritura de la respuesta HTTP</returns>
+        /// <param name="context">The HTTP context of the current request.</param>
+        /// <param name="ex">The captured exception.</param>
+        /// <returns>A task representing the writing of the HTTP response.</returns>
         private static Task HandleExceptionAsync(HttpContext context, Exception ex)
         {
-           
             var code = HttpStatusCode.InternalServerError;
 
-         
             CaptureExceptionDTO captureException = new CaptureExceptionDTO
             {
                 Timestamp = DateTime.UtcNow,
-                Evento = "Error en Middleware",
+                Evento = "Error in Middleware",
                 Mensaje = ex.Message,
                 DatosEvento = ex.StackTrace,
-                UsuarioAsociado = context.User?.Identity?.Name ?? "ErrorAutenticacion",  
+                UsuarioAsociado = context.User?.Identity?.Name ?? "AuthenticationError",
                 FechaEjecucion = DateTime.Now
             };
-            
+
             var result = JsonConvert.SerializeObject(new { error = ex.Message });
-            
+
             context.Response.ContentType = "application/json";
             context.Response.StatusCode = (int)code;
-            
+
             return context.Response.WriteAsync(result);
         }
     }

@@ -16,7 +16,7 @@ namespace ShopBridgeAPI.Controllers
             _service = service;
         }
 
-        // GET api/order
+        
         [HttpGet]
         public async Task<IActionResult> GetOrders()
         {
@@ -24,7 +24,7 @@ namespace ShopBridgeAPI.Controllers
             return Content(result, "application/json");
         }
 
-        // GET api/order/5
+        
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)
         {
@@ -32,7 +32,7 @@ namespace ShopBridgeAPI.Controllers
             return Content(result, "application/json");
         }
 
-        // POST api/order
+        
         [HttpPost]
         public async Task<IActionResult> Create([FromBody] OrderCreateDto dto)
         {

@@ -25,7 +25,25 @@
                 .AsNoTracking()
                 .ToListAsync();
 
-            return JsonSerializer.Serialize(orders);
+            var payload = orders.Select(o => new
+            {
+                o.Id,
+                o.CustomerName,
+                o.CreatedAt,
+                Items = o.OrderItems.Select(i => new
+                {
+                    i.Id,
+                    i.Quantity,
+                    Product = new
+                    {
+                        i.Product.ProductId,
+                        i.Product.Name,
+                        i.Product.Price
+                    }
+                })
+            });
+
+            return JsonSerializer.Serialize(payload);
         }
 
         public async Task<string> GetOrderById(int id)
@@ -39,7 +57,25 @@
             if (order == null)
                 return JsonSerializer.Serialize(new { });
 
-            return JsonSerializer.Serialize(order);
+            var payload = new
+            {
+                order.Id,
+                order.CustomerName,
+                order.CreatedAt,
+                Items = order.OrderItems.Select(i => new
+                {
+                    i.Id,
+                    i.Quantity,
+                    Product = new
+                    {
+                        i.Product.ProductId,
+                        i.Product.Name,
+                        i.Product.Price
+                    }
+                })
+            };
+
+            return JsonSerializer.Serialize(payload);
         }
 
         public async Task<string> CreateOrder(string orderJson)
