@@ -1,0 +1,2 @@
+Scalfold:
+dotnet ef dbcontext scaffold "Data Source=JARVIS;Initial Catalog=ProductManagementSystem;Integrated Security=True;TrustServerCertificate=true;" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models --context ProductContext --force

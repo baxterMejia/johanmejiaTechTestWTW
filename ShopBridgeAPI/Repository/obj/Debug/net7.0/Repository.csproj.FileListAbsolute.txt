@@ -1,0 +1,45 @@
+C:\Genesys\Carga Contable SISS\BaseOWASP\Repository\bin\Debug\net7.0\Repository.deps.json
+C:\Genesys\Carga Contable SISS\BaseOWASP\Repository\bin\Debug\net7.0\Repository.dll
+C:\Genesys\Carga Contable SISS\BaseOWASP\Repository\bin\Debug\net7.0\Repository.pdb
+C:\Genesys\Carga Contable SISS\BaseOWASP\Repository\bin\Debug\net7.0\Domain.dll
+C:\Genesys\Carga Contable SISS\BaseOWASP\Repository\bin\Debug\net7.0\Domain.pdb
+C:\Genesys\Carga Contable SISS\BaseOWASP\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+C:\Genesys\Carga Contable SISS\BaseOWASP\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Genesys\Carga Contable SISS\BaseOWASP\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+C:\Genesys\Carga Contable SISS\BaseOWASP\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+C:\Genesys\Carga Contable SISS\BaseOWASP\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+C:\Genesys\Carga Contable SISS\BaseOWASP\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+C:\Genesys\Carga Contable SISS\BaseOWASP\Repository\obj\Debug\net7.0\Repository.dll
+C:\Genesys\Carga Contable SISS\BaseOWASP\Repository\obj\Debug\net7.0\refint\Repository.dll
+C:\Genesys\Carga Contable SISS\BaseOWASP\Repository\obj\Debug\net7.0\Repository.pdb
+C:\Genesys\Carga Contable SISS\BaseOWASP\Repository\obj\Debug\net7.0\ref\Repository.dll
+C:\Projects\ProyectoManejoProductos\APIGateway\Repository\bin\Debug\net7.0\Repository.deps.json
+C:\Projects\ProyectoManejoProductos\APIGateway\Repository\bin\Debug\net7.0\Repository.dll
+C:\Projects\ProyectoManejoProductos\APIGateway\Repository\bin\Debug\net7.0\Repository.pdb
+C:\Projects\ProyectoManejoProductos\APIGateway\Repository\bin\Debug\net7.0\DataAccess.dll
+C:\Projects\ProyectoManejoProductos\APIGateway\Repository\bin\Debug\net7.0\DataAccess.pdb
+C:\Projects\ProyectoManejoProductos\APIGateway\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+C:\Projects\ProyectoManejoProductos\APIGateway\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ProyectoManejoProductos\APIGateway\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+C:\Projects\ProyectoManejoProductos\APIGateway\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+C:\Projects\ProyectoManejoProductos\APIGateway\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+C:\Projects\ProyectoManejoProductos\APIGateway\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+C:\Projects\ProyectoManejoProductos\APIGateway\Repository\obj\Debug\net7.0\Repository.dll
+C:\Projects\ProyectoManejoProductos\APIGateway\Repository\obj\Debug\net7.0\refint\Repository.dll
+C:\Projects\ProyectoManejoProductos\APIGateway\Repository\obj\Debug\net7.0\Repository.pdb
+C:\Projects\ProyectoManejoProductos\APIGateway\Repository\obj\Debug\net7.0\ref\Repository.dll
+C:\Projects\ProyectoManejoProductos\APIUserService\Repository\bin\Debug\net7.0\Repository.deps.json
+C:\Projects\ProyectoManejoProductos\APIUserService\Repository\bin\Debug\net7.0\Repository.dll
+C:\Projects\ProyectoManejoProductos\APIUserService\Repository\bin\Debug\net7.0\Repository.pdb
+C:\Projects\ProyectoManejoProductos\APIUserService\Repository\bin\Debug\net7.0\DataAccess.dll
+C:\Projects\ProyectoManejoProductos\APIUserService\Repository\bin\Debug\net7.0\DataAccess.pdb
+C:\Projects\ProyectoManejoProductos\APIUserService\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+C:\Projects\ProyectoManejoProductos\APIUserService\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ProyectoManejoProductos\APIUserService\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+C:\Projects\ProyectoManejoProductos\APIUserService\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+C:\Projects\ProyectoManejoProductos\APIUserService\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+C:\Projects\ProyectoManejoProductos\APIUserService\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+C:\Projects\ProyectoManejoProductos\APIUserService\Repository\obj\Debug\net7.0\Repository.dll
+C:\Projects\ProyectoManejoProductos\APIUserService\Repository\obj\Debug\net7.0\refint\Repository.dll
+C:\Projects\ProyectoManejoProductos\APIUserService\Repository\obj\Debug\net7.0\Repository.pdb
+C:\Projects\ProyectoManejoProductos\APIUserService\Repository\obj\Debug\net7.0\ref\Repository.dll

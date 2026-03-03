@@ -1,0 +1,407 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3300EA-6A19-49CE-AEED-F97E61BED10D}|Domain\\Domain.csproj|d:\\personal\\proyectomanejoproductos\\apiuserservice\\domain\\userdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3300EA-6A19-49CE-AEED-F97E61BED10D}|Domain\\Domain.csproj|solutionrelative:domain\\userdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D25129E-A43C-470E-8D29-5FD68D8E1F0A}|Repository\\Repository.csproj|d:\\personal\\proyectomanejoproductos\\apiuserservice\\repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D25129E-A43C-470E-8D29-5FD68D8E1F0A}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D25129E-A43C-470E-8D29-5FD68D8E1F0A}|Repository\\Repository.csproj|d:\\personal\\proyectomanejoproductos\\apiuserservice\\repository\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D25129E-A43C-470E-8D29-5FD68D8E1F0A}|Repository\\Repository.csproj|solutionrelative:repository\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FA21D0-3C3C-456E-8FF9-072BB318CFAF}|Service\\Service.csproj|d:\\personal\\proyectomanejoproductos\\apiuserservice\\service\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FA21D0-3C3C-456E-8FF9-072BB318CFAF}|Service\\Service.csproj|solutionrelative:service\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3300EA-6A19-49CE-AEED-F97E61BED10D}|Domain\\Domain.csproj|d:\\personal\\proyectomanejoproductos\\apiuserservice\\domain\\interfaces\\domain\\iuserdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3300EA-6A19-49CE-AEED-F97E61BED10D}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\domain\\iuserdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\APIUserService.csproj|d:\\personal\\proyectomanejoproductos\\apiuserservice\\baseowasp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\APIUserService.csproj|solutionrelative:baseowasp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3537DD58-593A-4882-B695-3F1022C63AD6}|Utilities\\Utilities.csproj|d:\\personal\\proyectomanejoproductos\\apiuserservice\\utilities\\utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3537DD58-593A-4882-B695-3F1022C63AD6}|Utilities\\Utilities.csproj|solutionrelative:utilities\\utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3537DD58-593A-4882-B695-3F1022C63AD6}|Utilities\\Utilities.csproj|d:\\personal\\proyectomanejoproductos\\apiuserservice\\utilities\\utilities.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3537DD58-593A-4882-B695-3F1022C63AD6}|Utilities\\Utilities.csproj|solutionrelative:utilities\\utilities.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FA21D0-3C3C-456E-8FF9-072BB318CFAF}|Service\\Service.csproj|d:\\personal\\proyectomanejoproductos\\apiuserservice\\service\\service.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D3FA21D0-3C3C-456E-8FF9-072BB318CFAF}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FA21D0-3C3C-456E-8FF9-072BB318CFAF}|Service\\Service.csproj|d:\\personal\\proyectomanejoproductos\\apiuserservice\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D3FA21D0-3C3C-456E-8FF9-072BB318CFAF}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D25129E-A43C-470E-8D29-5FD68D8E1F0A}|Repository\\Repository.csproj|d:\\personal\\proyectomanejoproductos\\apiuserservice\\repository\\repository.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4D25129E-A43C-470E-8D29-5FD68D8E1F0A}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3300EA-6A19-49CE-AEED-F97E61BED10D}|Domain\\Domain.csproj|d:\\personal\\proyectomanejoproductos\\apiuserservice\\domain\\domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4D3300EA-6A19-49CE-AEED-F97E61BED10D}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|d:\\personal\\proyectomanejoproductos\\apiuserservice\\dataaccess\\dataaccess.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\APIUserService.csproj|d:\\personal\\proyectomanejoproductos\\apiuserservice\\baseowasp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\APIUserService.csproj|solutionrelative:baseowasp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\APIUserService.csproj|d:\\personal\\proyectomanejoproductos\\apiuserservice\\baseowasp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\APIUserService.csproj|solutionrelative:baseowasp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\APIUserService.csproj|d:\\personal\\proyectomanejoproductos\\apiuserservice\\baseowasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\APIUserService.csproj|solutionrelative:baseowasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\APIUserService.csproj|d:\\personal\\proyectomanejoproductos\\apiuserservice\\baseowasp\\apiuserservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\APIUserService.csproj|solutionrelative:baseowasp\\apiuserservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|d:\\personal\\proyectomanejoproductos\\apiuserservice\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\APIUserService.csproj|d:\\personal\\proyectomanejoproductos\\apiuserservice\\baseowasp\\apiuserservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\APIUserService.csproj|solutionrelative:baseowasp\\apiuserservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|d:\\personal\\proyectomanejoproductos\\apiuserservice\\dataaccess\\models\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|d:\\personal\\proyectomanejoproductos\\apiuserservice\\dataaccess\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|d:\\personal\\proyectomanejoproductos\\apiuserservice\\dataaccess\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FA21D0-3C3C-456E-8FF9-072BB318CFAF}|Service\\Service.csproj|d:\\personal\\proyectomanejoproductos\\apiuserservice\\service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FA21D0-3C3C-456E-8FF9-072BB318CFAF}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Utilities",
+              "DocumentMoniker": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\Utilities\\Utilities.csproj",
+              "RelativeDocumentMoniker": "Utilities\\Utilities.csproj",
+              "ToolTip": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\Utilities\\Utilities.csproj",
+              "RelativeToolTip": "Utilities\\Utilities.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T00:53:45.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "APIUserService.csproj",
+              "DocumentMoniker": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\BaseOWASP\\APIUserService.csproj",
+              "RelativeDocumentMoniker": "BaseOWASP\\APIUserService.csproj",
+              "ToolTip": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\BaseOWASP\\APIUserService.csproj",
+              "RelativeToolTip": "BaseOWASP\\APIUserService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T12:05:24.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:54:57.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\Repository\\User\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\User\\UserRepository.cs",
+              "ToolTip": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\Repository\\User\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\User\\UserRepository.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:54:57.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Utilities.csproj",
+              "DocumentMoniker": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\Utilities\\Utilities.csproj",
+              "RelativeDocumentMoniker": "Utilities\\Utilities.csproj",
+              "ToolTip": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\Utilities\\Utilities.csproj",
+              "RelativeToolTip": "Utilities\\Utilities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T12:08:22.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\Service\\User\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\User\\UserService.cs",
+              "ToolTip": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\Service\\User\\UserService.cs",
+              "RelativeToolTip": "Service\\User\\UserService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:54:57.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\BaseOWASP\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BaseOWASP\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\BaseOWASP\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BaseOWASP\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:54:57.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDomain.cs",
+              "DocumentMoniker": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\Domain\\UserDomain.cs",
+              "RelativeDocumentMoniker": "Domain\\UserDomain.cs",
+              "ToolTip": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\Domain\\UserDomain.cs",
+              "RelativeToolTip": "Domain\\UserDomain.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:54:57.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserDomain.cs",
+              "DocumentMoniker": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\Domain\\Interfaces\\Domain\\IUserDomain.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Domain\\IUserDomain.cs",
+              "ToolTip": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\Domain\\Interfaces\\Domain\\IUserDomain.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Domain\\IUserDomain.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:54:57.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataAccess",
+              "DocumentMoniker": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T12:05:43.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T12:05:38.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Domain",
+              "DocumentMoniker": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T12:06:11.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAE4HAAAAAAAAAAArwGEHAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-12-04T00:53:04.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Service",
+              "DocumentMoniker": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T00:53:33.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repository",
+              "DocumentMoniker": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\Repository\\Repository.csproj",
+              "RelativeToolTip": "Repository\\Repository.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T12:07:57.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Service.csproj",
+              "DocumentMoniker": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T12:08:21.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\BaseOWASP\\appsettings.json",
+              "RelativeDocumentMoniker": "BaseOWASP\\appsettings.json",
+              "ToolTip": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\BaseOWASP\\appsettings.json",
+              "RelativeToolTip": "BaseOWASP\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T21:21:08.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "APIUserService",
+              "DocumentMoniker": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\BaseOWASP\\APIUserService.csproj",
+              "RelativeDocumentMoniker": "BaseOWASP\\APIUserService.csproj",
+              "ToolTip": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\BaseOWASP\\APIUserService.csproj",
+              "RelativeToolTip": "BaseOWASP\\APIUserService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T12:04:52.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\BaseOWASP\\Program.cs",
+              "RelativeDocumentMoniker": "BaseOWASP\\Program.cs",
+              "ToolTip": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\BaseOWASP\\Program.cs",
+              "RelativeToolTip": "BaseOWASP\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:55:24.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\BaseOWASP\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BaseOWASP\\appsettings.Development.json",
+              "ToolTip": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\BaseOWASP\\appsettings.Development.json",
+              "RelativeToolTip": "BaseOWASP\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T21:21:10.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\DataAccess\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\User.cs",
+              "ToolTip": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\DataAccess\\Models\\User.cs",
+              "RelativeToolTip": "DataAccess\\Models\\User.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:54:57.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\DataAccess\\Models\\UserProfile.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\UserProfile.cs",
+              "ToolTip": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\DataAccess\\Models\\UserProfile.cs",
+              "RelativeToolTip": "DataAccess\\Models\\UserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:54:57.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Module.cs",
+              "DocumentMoniker": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\DataAccess\\Models\\Module.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\Module.cs",
+              "ToolTip": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\DataAccess\\Models\\Module.cs",
+              "RelativeToolTip": "DataAccess\\Models\\Module.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:54:57.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\Service\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\Personal\\ProyectoManejoProductos\\APIUserService\\Service\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:54:57.271Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

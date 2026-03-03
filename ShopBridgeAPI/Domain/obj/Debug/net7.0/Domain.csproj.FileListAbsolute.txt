@@ -1,0 +1,50 @@
+C:\Genesys\Carga Contable SISS\BaseOWASP\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Genesys\Carga Contable SISS\BaseOWASP\Domain\bin\Debug\net7.0\Domain.dll
+C:\Genesys\Carga Contable SISS\BaseOWASP\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Genesys\Carga Contable SISS\BaseOWASP\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Genesys\Carga Contable SISS\BaseOWASP\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Genesys\Carga Contable SISS\BaseOWASP\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Genesys\Carga Contable SISS\BaseOWASP\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Genesys\Carga Contable SISS\BaseOWASP\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Genesys\Carga Contable SISS\BaseOWASP\Domain\obj\Debug\net7.0\Domain.dll
+C:\Genesys\Carga Contable SISS\BaseOWASP\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Genesys\Carga Contable SISS\BaseOWASP\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Genesys\Carga Contable SISS\BaseOWASP\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Projects\ProyectoManejoProductos\APIGateway\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Projects\ProyectoManejoProductos\APIGateway\Domain\bin\Debug\net7.0\Domain.dll
+C:\Projects\ProyectoManejoProductos\APIGateway\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Projects\ProyectoManejoProductos\APIGateway\Domain\bin\Debug\net7.0\DataAccess.dll
+C:\Projects\ProyectoManejoProductos\APIGateway\Domain\bin\Debug\net7.0\Repository.dll
+C:\Projects\ProyectoManejoProductos\APIGateway\Domain\bin\Debug\net7.0\Service.dll
+C:\Projects\ProyectoManejoProductos\APIGateway\Domain\bin\Debug\net7.0\Service.pdb
+C:\Projects\ProyectoManejoProductos\APIGateway\Domain\bin\Debug\net7.0\DataAccess.pdb
+C:\Projects\ProyectoManejoProductos\APIGateway\Domain\bin\Debug\net7.0\Repository.pdb
+C:\Projects\ProyectoManejoProductos\APIGateway\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Projects\ProyectoManejoProductos\APIGateway\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ProyectoManejoProductos\APIGateway\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Projects\ProyectoManejoProductos\APIGateway\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Projects\ProyectoManejoProductos\APIGateway\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projects\ProyectoManejoProductos\APIGateway\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
+C:\Projects\ProyectoManejoProductos\APIGateway\Domain\obj\Debug\net7.0\Domain.dll
+C:\Projects\ProyectoManejoProductos\APIGateway\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Projects\ProyectoManejoProductos\APIGateway\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Projects\ProyectoManejoProductos\APIGateway\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Projects\ProyectoManejoProductos\APIUserService\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Projects\ProyectoManejoProductos\APIUserService\Domain\bin\Debug\net7.0\Domain.dll
+C:\Projects\ProyectoManejoProductos\APIUserService\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Projects\ProyectoManejoProductos\APIUserService\Domain\bin\Debug\net7.0\DataAccess.dll
+C:\Projects\ProyectoManejoProductos\APIUserService\Domain\bin\Debug\net7.0\Repository.dll
+C:\Projects\ProyectoManejoProductos\APIUserService\Domain\bin\Debug\net7.0\Service.dll
+C:\Projects\ProyectoManejoProductos\APIUserService\Domain\bin\Debug\net7.0\Service.pdb
+C:\Projects\ProyectoManejoProductos\APIUserService\Domain\bin\Debug\net7.0\DataAccess.pdb
+C:\Projects\ProyectoManejoProductos\APIUserService\Domain\bin\Debug\net7.0\Repository.pdb
+C:\Projects\ProyectoManejoProductos\APIUserService\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Projects\ProyectoManejoProductos\APIUserService\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ProyectoManejoProductos\APIUserService\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Projects\ProyectoManejoProductos\APIUserService\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Projects\ProyectoManejoProductos\APIUserService\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projects\ProyectoManejoProductos\APIUserService\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
+C:\Projects\ProyectoManejoProductos\APIUserService\Domain\obj\Debug\net7.0\Domain.dll
+C:\Projects\ProyectoManejoProductos\APIUserService\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Projects\ProyectoManejoProductos\APIUserService\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Projects\ProyectoManejoProductos\APIUserService\Domain\obj\Debug\net7.0\ref\Domain.dll

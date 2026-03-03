@@ -1,0 +1,734 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\ShopBridgeAPI.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\baseowasp\\shopbridgeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\ShopBridgeAPI.csproj|solutionrelative:baseowasp\\shopbridgeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3537DD58-593A-4882-B695-3F1022C63AD6}|Utilities\\Utilities.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\utilities\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3537DD58-593A-4882-B695-3F1022C63AD6}|Utilities\\Utilities.csproj|solutionrelative:utilities\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D25129E-A43C-470E-8D29-5FD68D8E1F0A}|Repository\\Repository.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\repository\\order\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D25129E-A43C-470E-8D29-5FD68D8E1F0A}|Repository\\Repository.csproj|solutionrelative:repository\\order\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FA21D0-3C3C-456E-8FF9-072BB318CFAF}|Service\\Service.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\service\\order\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FA21D0-3C3C-456E-8FF9-072BB318CFAF}|Service\\Service.csproj|solutionrelative:service\\order\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\ShopBridgeAPI.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\baseowasp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\ShopBridgeAPI.csproj|solutionrelative:baseowasp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\dataaccess\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3300EA-6A19-49CE-AEED-F97E61BED10D}|Domain\\Domain.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\domain\\dto\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3300EA-6A19-49CE-AEED-F97E61BED10D}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\dataaccess\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3300EA-6A19-49CE-AEED-F97E61BED10D}|Domain\\Domain.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\domain\\dto\\responseuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3300EA-6A19-49CE-AEED-F97E61BED10D}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\responseuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3300EA-6A19-49CE-AEED-F97E61BED10D}|Domain\\Domain.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\domain\\dto\\usercredentialsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3300EA-6A19-49CE-AEED-F97E61BED10D}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\usercredentialsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3300EA-6A19-49CE-AEED-F97E61BED10D}|Domain\\Domain.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\domain\\dto\\sessionuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3300EA-6A19-49CE-AEED-F97E61BED10D}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\sessionuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D25129E-A43C-470E-8D29-5FD68D8E1F0A}|Repository\\Repository.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\repository\\product\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D25129E-A43C-470E-8D29-5FD68D8E1F0A}|Repository\\Repository.csproj|solutionrelative:repository\\product\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\dataaccess\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3300EA-6A19-49CE-AEED-F97E61BED10D}|Domain\\Domain.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\domain\\dto\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3300EA-6A19-49CE-AEED-F97E61BED10D}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3300EA-6A19-49CE-AEED-F97E61BED10D}|Domain\\Domain.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\domain\\dto\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3300EA-6A19-49CE-AEED-F97E61BED10D}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FA21D0-3C3C-456E-8FF9-072BB318CFAF}|Service\\Service.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\service\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FA21D0-3C3C-456E-8FF9-072BB318CFAF}|Service\\Service.csproj|solutionrelative:service\\product\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FA21D0-3C3C-456E-8FF9-072BB318CFAF}|Service\\Service.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\service\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FA21D0-3C3C-456E-8FF9-072BB318CFAF}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\dataaccess\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D25129E-A43C-470E-8D29-5FD68D8E1F0A}|Repository\\Repository.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\repository\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D25129E-A43C-470E-8D29-5FD68D8E1F0A}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3300EA-6A19-49CE-AEED-F97E61BED10D}|Domain\\Domain.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\domain\\interfaces\\domain\\iuserdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3300EA-6A19-49CE-AEED-F97E61BED10D}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\domain\\iuserdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3300EA-6A19-49CE-AEED-F97E61BED10D}|Domain\\Domain.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\domain\\userdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D3300EA-6A19-49CE-AEED-F97E61BED10D}|Domain\\Domain.csproj|solutionrelative:domain\\userdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FA21D0-3C3C-456E-8FF9-072BB318CFAF}|Service\\Service.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\service\\service.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D3FA21D0-3C3C-456E-8FF9-072BB318CFAF}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FA21D0-3C3C-456E-8FF9-072BB318CFAF}|Service\\Service.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\service\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FA21D0-3C3C-456E-8FF9-072BB318CFAF}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FA21D0-3C3C-456E-8FF9-072BB318CFAF}|Service\\Service.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FA21D0-3C3C-456E-8FF9-072BB318CFAF}|Service\\Service.csproj|solutionrelative:service\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D25129E-A43C-470E-8D29-5FD68D8E1F0A}|Repository\\Repository.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\repository\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D25129E-A43C-470E-8D29-5FD68D8E1F0A}|Repository\\Repository.csproj|solutionrelative:repository\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D25129E-A43C-470E-8D29-5FD68D8E1F0A}|Repository\\Repository.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\repository\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D25129E-A43C-470E-8D29-5FD68D8E1F0A}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D25129E-A43C-470E-8D29-5FD68D8E1F0A}|Repository\\Repository.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\repository\\repository.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4D25129E-A43C-470E-8D29-5FD68D8E1F0A}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D25129E-A43C-470E-8D29-5FD68D8E1F0A}|Repository\\Repository.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D25129E-A43C-470E-8D29-5FD68D8E1F0A}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\dataaccess\\models\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FA21D0-3C3C-456E-8FF9-072BB318CFAF}|Service\\Service.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\service\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3FA21D0-3C3C-456E-8FF9-072BB318CFAF}|Service\\Service.csproj|solutionrelative:service\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3537DD58-593A-4882-B695-3F1022C63AD6}|Utilities\\Utilities.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\utilities\\utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3537DD58-593A-4882-B695-3F1022C63AD6}|Utilities\\Utilities.csproj|solutionrelative:utilities\\utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3537DD58-593A-4882-B695-3F1022C63AD6}|Utilities\\Utilities.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\utilities\\utilities.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3537DD58-593A-4882-B695-3F1022C63AD6}|Utilities\\Utilities.csproj|solutionrelative:utilities\\utilities.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FA21D0-3C3C-456E-8FF9-072BB318CFAF}|Service\\Service.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D3FA21D0-3C3C-456E-8FF9-072BB318CFAF}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D3300EA-6A19-49CE-AEED-F97E61BED10D}|Domain\\Domain.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\domain\\domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4D3300EA-6A19-49CE-AEED-F97E61BED10D}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\dataaccess\\dataaccess.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\ShopBridgeAPI.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\baseowasp\\shopbridgeapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\ShopBridgeAPI.csproj|solutionrelative:baseowasp\\shopbridgeapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\dataaccess\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\dataaccess\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C0E031A-0D94-4B58-B1E8-E423AEE3DC90}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\ShopBridgeAPI.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\baseowasp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\ShopBridgeAPI.csproj|solutionrelative:baseowasp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\ShopBridgeAPI.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\baseowasp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\ShopBridgeAPI.csproj|solutionrelative:baseowasp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\ShopBridgeAPI.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\baseowasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\ShopBridgeAPI.csproj|solutionrelative:baseowasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\ShopBridgeAPI.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\baseowasp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\ShopBridgeAPI.csproj|solutionrelative:baseowasp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\ShopBridgeAPI.csproj|c:\\users\\johan\\onedrive\\documents\\techtestmichaelpage\\apiuserservice\\baseowasp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28EF005D-C532-4F4E-AA73-B20131EB643E}|BaseOWASP\\ShopBridgeAPI.csproj|solutionrelative:baseowasp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Repository\\Order\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Order\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Repository\\Order\\OrderRepository.cs",
+              "RelativeToolTip": "Repository\\Order\\OrderRepository.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T17:08:00.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\DataAccess\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\DataAccess\\Models\\Order.cs",
+              "RelativeToolTip": "DataAccess\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T17:02:05.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Domain\\DTO\\OrderCreateDto.cs",
+              "RelativeDocumentMoniker": "Domain\\DTO\\OrderCreateDto.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Domain\\DTO\\OrderCreateDto.cs",
+              "RelativeToolTip": "Domain\\DTO\\OrderCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T18:08:28.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\DataAccess\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\DataAccess\\Models\\OrderItem.cs",
+              "RelativeToolTip": "DataAccess\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T17:02:14.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\BaseOWASP\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "BaseOWASP\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\BaseOWASP\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "BaseOWASP\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T17:31:39.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\BaseOWASP\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "BaseOWASP\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\BaseOWASP\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "BaseOWASP\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T18:05:15.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Utilities\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Utilities\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Utilities\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "Utilities\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwCQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T15:23:01.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShopBridgeAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\BaseOWASP\\ShopBridgeAPI.csproj",
+              "RelativeDocumentMoniker": "BaseOWASP\\ShopBridgeAPI.csproj",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\BaseOWASP\\ShopBridgeAPI.csproj",
+              "RelativeToolTip": "BaseOWASP\\ShopBridgeAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T15:18:12.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Service\\Order\\OrderService.cs",
+              "RelativeDocumentMoniker": "Service\\Order\\OrderService.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Service\\Order\\OrderService.cs",
+              "RelativeToolTip": "Service\\Order\\OrderService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T17:29:16.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SessionUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Domain\\DTO\\SessionUserDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\DTO\\SessionUserDTO.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Domain\\DTO\\SessionUserDTO.cs",
+              "RelativeToolTip": "Domain\\DTO\\SessionUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T18:13:32.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResponseUserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Domain\\DTO\\ResponseUserLogin.cs",
+              "RelativeDocumentMoniker": "Domain\\DTO\\ResponseUserLogin.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Domain\\DTO\\ResponseUserLogin.cs",
+              "RelativeToolTip": "Domain\\DTO\\ResponseUserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T18:13:47.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserCredentialsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Domain\\DTO\\UserCredentialsDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\DTO\\UserCredentialsDTO.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Domain\\DTO\\UserCredentialsDTO.cs",
+              "RelativeToolTip": "Domain\\DTO\\UserCredentialsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T18:13:51.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\BaseOWASP\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BaseOWASP\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\BaseOWASP\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BaseOWASP\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T15:18:12.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Repository\\Product\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Product\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Repository\\Product\\ProductRepository.cs",
+              "RelativeToolTip": "Repository\\Product\\ProductRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T16:59:55.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\DataAccess\\Models\\ProductContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\ProductContext.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\DataAccess\\Models\\ProductContext.cs",
+              "RelativeToolTip": "DataAccess\\Models\\ProductContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T15:56:34.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Domain\\DTO\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "Domain\\DTO\\ProductCreateDto.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Domain\\DTO\\ProductCreateDto.cs",
+              "RelativeToolTip": "Domain\\DTO\\ProductCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T17:47:45.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Service\\Product\\ProductService.cs",
+              "RelativeDocumentMoniker": "Service\\Product\\ProductService.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Service\\Product\\ProductService.cs",
+              "RelativeToolTip": "Service\\Product\\ProductService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwCkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T17:22:02.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Service\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Service\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T17:19:03.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRegistrationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Domain\\DTO\\UserRegistrationDTO.cs",
+              "RelativeDocumentMoniker": "Domain\\DTO\\UserRegistrationDTO.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Domain\\DTO\\UserRegistrationDTO.cs",
+              "RelativeToolTip": "Domain\\DTO\\UserRegistrationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T17:58:20.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\DataAccess\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\DataAccess\\Models\\Product.cs",
+              "RelativeToolTip": "DataAccess\\Models\\Product.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T17:01:51.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Repository\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Repository\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T16:51:11.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\BaseOWASP\\Program.cs",
+              "RelativeDocumentMoniker": "BaseOWASP\\Program.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\BaseOWASP\\Program.cs",
+              "RelativeToolTip": "BaseOWASP\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAQwHEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T15:18:12.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUserDomain.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Domain\\Interfaces\\Domain\\IUserDomain.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\Domain\\IUserDomain.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Domain\\Interfaces\\Domain\\IUserDomain.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\Domain\\IUserDomain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T15:18:12.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserDomain.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Domain\\UserDomain.cs",
+              "RelativeDocumentMoniker": "Domain\\UserDomain.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Domain\\UserDomain.cs",
+              "RelativeToolTip": "Domain\\UserDomain.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T15:18:12.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Service",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T15:18:12.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Service\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Service\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T17:28:43.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Repository\\User\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\User\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Repository\\User\\UserRepository.cs",
+              "RelativeToolTip": "Repository\\User\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T15:18:12.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Service\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Service\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T15:18:12.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Repository\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Repository\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T16:55:42.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Utilities.csproj",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Utilities\\Utilities.csproj",
+              "RelativeDocumentMoniker": "Utilities\\Utilities.csproj",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Utilities\\Utilities.csproj",
+              "RelativeToolTip": "Utilities\\Utilities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T15:18:12.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Repository",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Repository\\Repository.csproj",
+              "RelativeToolTip": "Repository\\Repository.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T15:18:12.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\BaseOWASP\\appsettings.json",
+              "RelativeDocumentMoniker": "BaseOWASP\\appsettings.json",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\BaseOWASP\\appsettings.json",
+              "RelativeToolTip": "BaseOWASP\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-03T15:18:12.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T15:18:12.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T15:18:12.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DataAccess",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T15:18:12.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Service\\User\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\User\\UserService.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Service\\User\\UserService.cs",
+              "RelativeToolTip": "Service\\User\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T15:18:12.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Module.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\DataAccess\\Models\\Module.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\Module.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\DataAccess\\Models\\Module.cs",
+              "RelativeToolTip": "DataAccess\\Models\\Module.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T15:18:12.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\BaseOWASP\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BaseOWASP\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\BaseOWASP\\appsettings.Development.json",
+              "RelativeToolTip": "BaseOWASP\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-03T15:18:12.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Utilities",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Utilities\\Utilities.csproj",
+              "RelativeDocumentMoniker": "Utilities\\Utilities.csproj",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Utilities\\Utilities.csproj",
+              "RelativeToolTip": "Utilities\\Utilities.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T15:18:11.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T15:18:12.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-03-03T15:18:12.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Service.csproj",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T15:18:12.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ShopBridgeAPI",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\BaseOWASP\\ShopBridgeAPI.csproj",
+              "RelativeDocumentMoniker": "BaseOWASP\\ShopBridgeAPI.csproj",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\BaseOWASP\\ShopBridgeAPI.csproj",
+              "RelativeToolTip": "BaseOWASP\\ShopBridgeAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T15:18:12.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\DataAccess\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\DataAccess\\Models\\User.cs",
+              "RelativeToolTip": "DataAccess\\Models\\User.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T15:18:12.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\DataAccess\\Models\\UserProfile.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\johan\\OneDrive\\Documents\\TechTestMichaelPage\\APIUserService\\DataAccess\\Models\\UserProfile.cs",
+              "RelativeToolTip": "DataAccess\\Models\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T15:18:12.321Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

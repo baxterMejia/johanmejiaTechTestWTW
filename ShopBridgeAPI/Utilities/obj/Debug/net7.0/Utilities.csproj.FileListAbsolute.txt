@@ -1,0 +1,60 @@
+C:\Genesys\Carga Contable SISS\BaseOWASP\Utilities\bin\Debug\net7.0\Utilities.deps.json
+C:\Genesys\Carga Contable SISS\BaseOWASP\Utilities\bin\Debug\net7.0\Utilities.dll
+C:\Genesys\Carga Contable SISS\BaseOWASP\Utilities\bin\Debug\net7.0\Utilities.pdb
+C:\Genesys\Carga Contable SISS\BaseOWASP\Utilities\bin\Debug\net7.0\Domain.dll
+C:\Genesys\Carga Contable SISS\BaseOWASP\Utilities\bin\Debug\net7.0\Domain.pdb
+C:\Genesys\Carga Contable SISS\BaseOWASP\Utilities\obj\Debug\net7.0\Utilities.csproj.AssemblyReference.cache
+C:\Genesys\Carga Contable SISS\BaseOWASP\Utilities\obj\Debug\net7.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Genesys\Carga Contable SISS\BaseOWASP\Utilities\obj\Debug\net7.0\Utilities.AssemblyInfoInputs.cache
+C:\Genesys\Carga Contable SISS\BaseOWASP\Utilities\obj\Debug\net7.0\Utilities.AssemblyInfo.cs
+C:\Genesys\Carga Contable SISS\BaseOWASP\Utilities\obj\Debug\net7.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Genesys\Carga Contable SISS\BaseOWASP\Utilities\obj\Debug\net7.0\Utilities.csproj.CopyComplete
+C:\Genesys\Carga Contable SISS\BaseOWASP\Utilities\obj\Debug\net7.0\Utilities.dll
+C:\Genesys\Carga Contable SISS\BaseOWASP\Utilities\obj\Debug\net7.0\refint\Utilities.dll
+C:\Genesys\Carga Contable SISS\BaseOWASP\Utilities\obj\Debug\net7.0\Utilities.pdb
+C:\Genesys\Carga Contable SISS\BaseOWASP\Utilities\obj\Debug\net7.0\ref\Utilities.dll
+C:\Projects\ProyectoManejoProductos\APIGateway\Utilities\bin\Debug\net7.0\Utilities.deps.json
+C:\Projects\ProyectoManejoProductos\APIGateway\Utilities\bin\Debug\net7.0\Utilities.dll
+C:\Projects\ProyectoManejoProductos\APIGateway\Utilities\bin\Debug\net7.0\Utilities.pdb
+C:\Projects\ProyectoManejoProductos\APIGateway\Utilities\bin\Debug\net7.0\DataAccess.dll
+C:\Projects\ProyectoManejoProductos\APIGateway\Utilities\bin\Debug\net7.0\Domain.dll
+C:\Projects\ProyectoManejoProductos\APIGateway\Utilities\bin\Debug\net7.0\Repository.dll
+C:\Projects\ProyectoManejoProductos\APIGateway\Utilities\bin\Debug\net7.0\Service.dll
+C:\Projects\ProyectoManejoProductos\APIGateway\Utilities\bin\Debug\net7.0\Domain.pdb
+C:\Projects\ProyectoManejoProductos\APIGateway\Utilities\bin\Debug\net7.0\DataAccess.pdb
+C:\Projects\ProyectoManejoProductos\APIGateway\Utilities\bin\Debug\net7.0\Repository.pdb
+C:\Projects\ProyectoManejoProductos\APIGateway\Utilities\bin\Debug\net7.0\Service.pdb
+C:\Projects\ProyectoManejoProductos\APIGateway\Utilities\obj\Debug\net7.0\Utilities.csproj.AssemblyReference.cache
+C:\Projects\ProyectoManejoProductos\APIGateway\Utilities\obj\Debug\net7.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ProyectoManejoProductos\APIGateway\Utilities\obj\Debug\net7.0\Utilities.AssemblyInfoInputs.cache
+C:\Projects\ProyectoManejoProductos\APIGateway\Utilities\obj\Debug\net7.0\Utilities.AssemblyInfo.cs
+C:\Projects\ProyectoManejoProductos\APIGateway\Utilities\obj\Debug\net7.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Projects\ProyectoManejoProductos\APIGateway\Utilities\obj\Debug\net7.0\Utilities.csproj.CopyComplete
+C:\Projects\ProyectoManejoProductos\APIGateway\Utilities\obj\Debug\net7.0\Utilities.dll
+C:\Projects\ProyectoManejoProductos\APIGateway\Utilities\obj\Debug\net7.0\refint\Utilities.dll
+C:\Projects\ProyectoManejoProductos\APIGateway\Utilities\obj\Debug\net7.0\Utilities.pdb
+C:\Projects\ProyectoManejoProductos\APIGateway\Utilities\obj\Debug\net7.0\ref\Utilities.dll
+C:\Projects\ProyectoManejoProductos\APIUserService\Utilities\bin\Debug\net7.0\Utilities.deps.json
+C:\Projects\ProyectoManejoProductos\APIUserService\Utilities\bin\Debug\net7.0\Utilities.dll
+C:\Projects\ProyectoManejoProductos\APIUserService\Utilities\bin\Debug\net7.0\Utilities.pdb
+C:\Projects\ProyectoManejoProductos\APIUserService\Utilities\bin\Debug\net7.0\DataAccess.dll
+C:\Projects\ProyectoManejoProductos\APIUserService\Utilities\bin\Debug\net7.0\Domain.dll
+C:\Projects\ProyectoManejoProductos\APIUserService\Utilities\bin\Debug\net7.0\Repository.dll
+C:\Projects\ProyectoManejoProductos\APIUserService\Utilities\bin\Debug\net7.0\Service.dll
+C:\Projects\ProyectoManejoProductos\APIUserService\Utilities\bin\Debug\net7.0\Domain.pdb
+C:\Projects\ProyectoManejoProductos\APIUserService\Utilities\bin\Debug\net7.0\DataAccess.pdb
+C:\Projects\ProyectoManejoProductos\APIUserService\Utilities\bin\Debug\net7.0\Repository.pdb
+C:\Projects\ProyectoManejoProductos\APIUserService\Utilities\bin\Debug\net7.0\Service.pdb
+C:\Projects\ProyectoManejoProductos\APIUserService\Utilities\obj\Debug\net7.0\Utilities.csproj.AssemblyReference.cache
+C:\Projects\ProyectoManejoProductos\APIUserService\Utilities\obj\Debug\net7.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ProyectoManejoProductos\APIUserService\Utilities\obj\Debug\net7.0\Utilities.AssemblyInfoInputs.cache
+C:\Projects\ProyectoManejoProductos\APIUserService\Utilities\obj\Debug\net7.0\Utilities.AssemblyInfo.cs
+C:\Projects\ProyectoManejoProductos\APIUserService\Utilities\obj\Debug\net7.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Projects\ProyectoManejoProductos\APIUserService\Utilities\obj\Debug\net7.0\Utilities.csproj.CopyComplete
+C:\Projects\ProyectoManejoProductos\APIUserService\Utilities\obj\Debug\net7.0\Utilities.dll
+C:\Projects\ProyectoManejoProductos\APIUserService\Utilities\obj\Debug\net7.0\refint\Utilities.dll
+C:\Projects\ProyectoManejoProductos\APIUserService\Utilities\obj\Debug\net7.0\Utilities.pdb
+C:\Projects\ProyectoManejoProductos\APIUserService\Utilities\obj\Debug\net7.0\ref\Utilities.dll
+D:\Personal\ProyectoManejoProductos\APIUserService\Utilities\obj\Debug\net7.0\Utilities.dll
+D:\Personal\ProyectoManejoProductos\APIUserService\Utilities\obj\Debug\net7.0\refint\Utilities.dll
+D:\Personal\ProyectoManejoProductos\APIUserService\Utilities\obj\Debug\net7.0\Utilities.pdb
