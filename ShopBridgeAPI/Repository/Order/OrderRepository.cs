@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Repository.Order
+﻿namespace Repository.Order
 {
     using DataAccess.Models;
     using Microsoft.EntityFrameworkCore;
@@ -49,7 +43,7 @@ namespace Repository.Order
         }
 
         public async Task<string> CreateOrder(string orderJson)
-        {            
+        {
             var options = new JsonSerializerOptions
             {
                 PropertyNameCaseInsensitive = true
@@ -86,7 +80,7 @@ namespace Repository.Order
                 });
             }
 
-            
+
             var order = new Order
             {
                 CustomerName = payload.CustomerName,
@@ -96,7 +90,7 @@ namespace Repository.Order
             _dbContext.Orders.Add(order);
             await _dbContext.SaveChangesAsync();
 
-          
+
             foreach (var item in payload.OrderItems)
             {
                 var product = products.First(p => p.ProductId == item.ProductId);
@@ -114,13 +108,27 @@ namespace Repository.Order
 
             await _dbContext.SaveChangesAsync();
 
-           
-            var created = await _dbContext.Orders
-                .Include(o => o.OrderItems)
-                .ThenInclude(i => i.Product)
-                .FirstAsync(o => o.Id == order.Id);
 
-            return JsonSerializer.Serialize(created);
+            var created = await _dbContext.Orders
+            .Include(o => o.OrderItems)
+            .ThenInclude(i => i.Product)
+            .FirstAsync(o => o.Id == order.Id);
+         
+            var dto = new
+            {
+                created.Id,
+                created.CustomerName,
+                created.CreatedAt,
+                Items = created.OrderItems.Select(i => new
+                {
+                    i.ProductId,
+                    i.Quantity,
+                    i.UnitPrice,
+                    ProductName = i.Product.Name
+                })
+            };
+
+            return JsonSerializer.Serialize(dto);
         }
     }
 }
